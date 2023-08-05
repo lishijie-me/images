@@ -1,3 +1,1 @@
-# images
-
-some images about future
+# about future
